@@ -10,9 +10,15 @@ font-size: 3em;
 .tagline {font-size: 2em; color: gray; text-align: center;
 }
 
+.main content {text-align:left; font-size: 2em; font-family: Verdana, Geneva, Tahoma, sans-serif: color-scheme: black}
+
+
 h2 {
-    margin: 100px; text-align: center;
+    margin: 80px; text-align: center; color-scheme: black; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 2em;
 }
+
+h3 {margin: 80px; text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 2em;}
+
 
 
 
