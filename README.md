@@ -9,3 +9,6 @@ Moved style codes from html to css file
 Text-align of sub headings
 font colour change
 Added pictures of the main content
+Added banner pics to main page
+Added bulkpurchase webpage
+Linked main web page to bulkpurchase landing page
