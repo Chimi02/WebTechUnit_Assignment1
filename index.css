@@ -3,9 +3,16 @@
 body {color:dimgrey;}
 body {background-color: pink;
 }
-h1 {color:black;}
-h1 <font size="+7">This is bigger text.</font>
+h1 {color:black;
+font-size: 3em;
+}
 
+.tagline {font-size: 2em; color: gray; text-align: center;
+}
+
+h2 {
+    margin: 100px; text-align: center;
+}
 
 
 
